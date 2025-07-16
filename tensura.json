@@ -12,6 +12,14 @@
       "groups": {
         "": "/proxy/api/mangakatana/chapter/aHR0cHM6Ly9tYW5nYWthdGFuYS5jb20vbWFuZ2EvdGVuc2VpLXNoaXRhcmEtc2xpbWUtZGF0dGEta2VuLjE3ODAvYzE=/"
       }
+    },
+    "99999999999999999999": {
+      "title": "XXXTESTCHAPTERXXX",
+      "volume": "",
+      "last_updated": "1752637459",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fdFJFkh"
+      }
     }
   }
 }
